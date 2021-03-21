@@ -1,0 +1,11 @@
+@media only screen and (max-width: 1140px){
+    #addTxt{
+        position: relative;
+        left:-436px;
+        width:464px;
+    }
+    #addBtn{
+        position: relative;
+        left:-436px;
+    }
+}

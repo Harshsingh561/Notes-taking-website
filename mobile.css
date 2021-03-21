@@ -1,0 +1,12 @@
+@media only screen and (max-width: 800px){
+    #addTxt{
+        width:270px;
+    }
+    #main-heading{
+        font-size:25px;
+    }
+    #img{
+        position: relative;
+        top: -35px;
+    }
+}
