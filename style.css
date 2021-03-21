@@ -95,3 +95,6 @@ body{
     width: 590px;
     height:137px;
 }
+.card{
+  box-shadow: -4px 0px 45px 0px rgba(0,0,0,0.35);
+}
